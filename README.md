@@ -1,4 +1,6 @@
-# git-github
+# GitClassRoomNov17
+This repository is for learning git
 
-This is my first Git tutorial 
-Shashil 
+I would be making smaller commits
+
+Trying to commit using ssh user
